@@ -81,5 +81,5 @@ while True:
 df = pd.DataFrame(my_imdb_ratings, columns=['Title', 'Year', 'Certificate', 'Runtime', 'Genre', 'Rating', 'My_rating', 'Votes', 'Director'])
 
 """Export DataFrame to csv."""
-df.to_csv('my_imdb_ratings345.csv', index = False)
+df.to_csv('my_imdb_ratings.csv', index = False)
 
