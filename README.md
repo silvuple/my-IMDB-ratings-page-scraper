@@ -4,8 +4,9 @@ my IMDB ratings page scraper with python 3 and BeautifulSoup
 ## Prerequisites
 
 * Python 3
-* bs4 (Beautiful Soup - a Python library)
-* pandas (Python package)
+* requests (Requests HTTP library for Python)
+* bs4 (Beautiful Soup Python library)
+* pandas (pandas Python package)
 * re (Regular expression operations module of Python)
 
 ## Authors
